@@ -1,0 +1,23 @@
+Size X: 20
+Size Y: 10
+
+Offset X: 0
+Offset Y: 4
+
+Player Position X: -8,5
+Player Position Y: 3,5
+
+Camera Size: 20
+
+Even Map Size: True
+
+####################
+#      # ###   #   #
+###### # ###       #
+##     # #        ##
+## ##### # ##### ###
+#        #   # # # #
+## ## ## # # # # # #
+#  #  ## # # # # # #
+#    ###     #     #
+####################
